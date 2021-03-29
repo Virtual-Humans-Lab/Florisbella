@@ -2285,7 +2285,16 @@ AnimationClip:
     path: CW_Head
     classID: 137
     script: {fileID: 0}
-  m_PPtrCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 030dfd678858cf94cb0dba77bd2d91b3, type: 2}
+    - time: 1
+      value: {fileID: 2100000, guid: 030dfd678858cf94cb0dba77bd2d91b3, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: CW_Head
+    classID: 137
+    script: {fileID: 0}
   m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
@@ -2300,6 +2309,13 @@ AnimationClip:
       typeID: 137
       customType: 20
       isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1707234929
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 137
+      customType: 21
+      isPPtrCurve: 1
     - serializedVersion: 2
       path: 1707234929
       attribute: 1396994448
@@ -2860,13 +2876,15 @@ AnimationClip:
       typeID: 137
       customType: 20
       isPPtrCurve: 0
-    pptrCurveMapping: []
+    pptrCurveMapping:
+    - {fileID: 2100000, guid: 030dfd678858cf94cb0dba77bd2d91b3, type: 2}
+    - {fileID: 2100000, guid: 030dfd678858cf94cb0dba77bd2d91b3, type: 2}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1
+    m_StopTime: 1.0166667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
