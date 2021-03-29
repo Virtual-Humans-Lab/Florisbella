@@ -322,15 +322,15 @@ Material:
     - _SupportDecals: 0
     - _SurfaceType: 0
     - _TessellationBackFaceCullEpsilon: -1
-    - _TessellationFactor: 3
+    - _TessellationFactor: 2
     - _TessellationFactorMaxDistance: 50
     - _TessellationFactorMinDistance: 20
-    - _TessellationFactorTriangleSize: 2
+    - _TessellationFactorTriangleSize: 8.36
     - _TessellationMode: 1
     - _TessellationShapeFactor: 1
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
-    - _Thickness: 0.134
+    - _Thickness: 0.025
     - _ThicknessMultiplier: 1
     - _TransmissionEnable: 1
     - _TransparentBackfaceEnable: 0
