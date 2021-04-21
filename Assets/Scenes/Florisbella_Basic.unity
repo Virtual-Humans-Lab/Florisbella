@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 1551.4951, g: 1728.5957, b: 2534.539, a: 1}
+  m_IndirectSpecularColor: {r: 1551.8564, g: 1728.7754, b: 2534.6172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1460,9 +1460,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 124420832027470413, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1858864580397726302, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.004742174
+      objectReference: {fileID: 0}
+    - target: {fileID: 2289060289849679358, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368617724555240033, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3734002145963903044, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1503,6 +1515,14 @@ PrefabInstance:
     - target: {fileID: 3813816446108723414, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
       propertyPath: m_LocalRotation.z
       value: -3.773194e-12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3970659579808856196, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4185919980523212726, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5482378304920066599, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
       propertyPath: m_IsActive
@@ -1626,6 +1646,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6550105972626465565, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[65]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6780466062860803680, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7413873603316607304, guid: 77f2d9af8a2b54840844574d48c1bbd5, type: 3}
